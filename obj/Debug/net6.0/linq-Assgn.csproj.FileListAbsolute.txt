@@ -1,0 +1,15 @@
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.csproj.AssemblyReference.cache
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.AssemblyInfoInputs.cache
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.AssemblyInfo.cs
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.csproj.CoreCompileInputs.cache
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\linq-Assgn.exe
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\linq-Assgn.deps.json
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\linq-Assgn.runtimeconfig.json
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\linq-Assgn.dll
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\ref\linq-Assgn.dll
+C:\Promact\Training\C-Sharp\linq-Assgn\bin\Debug\net6.0\linq-Assgn.pdb
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.dll
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\ref\linq-Assgn.dll
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.pdb
+C:\Promact\Training\C-Sharp\linq-Assgn\obj\Debug\net6.0\linq-Assgn.genruntimeconfig.cache
